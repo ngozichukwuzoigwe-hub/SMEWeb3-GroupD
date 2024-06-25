@@ -3,3 +3,35 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h5{
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.red-border {
+    border-bottom: 2px solid red;
+    padding: 20px;
+    width: auto;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+
+.rounded-border {
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
