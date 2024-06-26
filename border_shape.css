@@ -71,3 +71,17 @@ h5{
     width: 100%;
 
 }
+.blue-left-border{
+    background-color: aquamarine;
+    border-left:  3px solid blue;
+    /* border-radius: 30px; */
+    padding: 8px;
+    margin: 20px;
+
+}
+.circle{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
