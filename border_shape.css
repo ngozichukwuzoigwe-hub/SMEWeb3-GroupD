@@ -101,3 +101,23 @@ h5{
     height: 300px;
     width: 300px;
 }
+.div5{
+    /* background-color: aquamarine; */
+    border: 3px solid black;
+    /* border-radius: 30px; */
+    padding: 8px;
+    margin: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    height: 5vh;
+}
+.div6{
+    background-color: blue;
+    border-top: 50px red solid;
+    margin:auto 200px;
+    height: 30vh;
+    color: white;
+    font-size:50px;
+    /* text-align: center; */
+    padding: 20px;
+}
