@@ -54,7 +54,7 @@ h5{
 
 .sec-1 {
 
-    background-image: url(../img_sally/sally_1.jpg);
+    background-image: url('Sally_images/sally_1.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -66,7 +66,7 @@ h5{
 
 .sec-2 {
 
-    background-image: url(../img_sally/sally_2.jpg);
+    background-image: url('Sally_images/sally_2.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -78,7 +78,7 @@ h5{
 
 .sec-3 {
 
-    background-image: url(../img_sally/sally_3.jpg);
+    background-image: url('Sally_images/sally_3.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -90,7 +90,7 @@ h5{
 
 .sec-4 {
 
-    background-image: url(../img_sally/sally_4.jpg);
+    background-image: url('Sally_images/sally_4.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -101,7 +101,7 @@ h5{
 
 .sec-5 {
 
-    background-image: url(../img_sally/sally_5.jpg);
+    background-image: url('Sally_images/sally_5.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -111,9 +111,9 @@ h5{
 
 }
 
-.sec-6 {
+.section-6 {
 
-    background-image: url(../img_sally/sally_6.jpg);
+    background-image: url('Sally_images/sally_6.jpg');
     block-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -124,7 +124,7 @@ h5{
 }
 
 .section7{
-    background-image: url(../img_sally/sally_7.jpg);
+    background-image: url('Sally_images/sally_7.jpg');
     height: 200vh;
     width: 100%;
     /* border: 5px solid; */
@@ -134,7 +134,7 @@ h5{
     
 }
 .section8{
-    background-image: url(../img_sally/sally_8.jpg);
+    background-image: url('Sally_images/sally_8.jpg');
     height: 200vh;
     width: 100%;
     /* border: 5px solid; */
